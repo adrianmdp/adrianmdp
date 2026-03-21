@@ -38,7 +38,7 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,ts,react,nextjs,tailwind,python,php,nodejs,mysql,sqlite,fastapi,cpp,git,github,vercel,vscode,figma,ai,discord,render,chainlit,streamlit" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,ts,react,nextjs,tailwind,vue,angular,wordpress,python,php,nodejs,mysql,sqlite,fastapi,cpp,git,github,vercel,vscode,figma,ai,discord,render,chainlit,streamlit" />
 </p>
 
 ---
@@ -78,15 +78,15 @@
 
 <p align="center">
   <span>
-    <img src="https://github-readme-stats.vercel.app/api?username=Anum-2017&show_icons=true&theme=rose_pine&hide_border=false&rank_icon=github" alt="GitHub Stats" width="47%" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api?username=adrianmdp&show_icons=true&theme=rose_pine&hide_border=false&rank_icon=github" alt="GitHub Stats" width="47%" height="200" />
   </span>
   <span>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Anum-2017&theme=rose_pine&hide_border=false" alt="GitHub Streak Stats" width="47%" height="200" />  
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=adrianmdp&theme=rose_pine&hide_border=false" alt="GitHub Streak Stats" width="47%" height="200" />  
   </span> 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anum-2017&layout=compact&langs_count=8&theme=rose_pine&hide_border=false" alt="Top Languages" width="60%" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianmdp&layout=compact&langs_count=8&theme=rose_pine&hide_border=false" alt="Top Languages" width="60%" height="200" />
 </p>
 
 ---
@@ -94,7 +94,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anum-2017&theme=react-dark&area=true&hide_border=false" alt="Anum Kamal's GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adrianmdp&theme=react-dark&area=true&hide_border=false" alt="Anum Kamal's GitHub Activity Graph" />
 </p>
 
 ---
