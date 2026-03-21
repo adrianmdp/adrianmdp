@@ -1,0 +1,110 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=200&section=header&fontColor=ffffff" />
+</p>
+
+<h1 align="center">✨ Hi, I'm <span style="color:#eccc99;">Adrian Lee</span> 💻</h1>
+<h3 align="center"># 👨‍💻 COO of SkyLink Digital ⚡
+### Web & AI Dev Guru 🐍 | AI & Innovation Explorer 🤖</h3>
+
+<div style="display: flex; justify-content: center; margin: 20px 0;">
+  <a href="https://github.com/adrianmdp">
+    <img src="https://komarev.com/ghpvc/?username=adrianmdp&label=Profile%20Views&color=FF6B9D" alt="Profile Views"/>
+  </a>
+  
+  &nbsp;&nbsp;
+  
+  <a href="https://gitroll.io/profile/uLBztfxNhOZcLaYcUvBwZfILtkGs1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uLBztfxNhOZcLaYcUvBwZfILtkGs1?theme=darkEmerald" alt="GitRoll Profile Badge"/></a>
+</div>
+
+---
+
+### 👩‍💻 About Me
+
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🎓 <strong>Adrian Lee (Tianyi Li)</strong> | COO of SkyLink Digital</li>
+        <li>🧠 Passionate about <strong>Web & Mobile Development</strong>, <strong>Blockchain</strong>, and <strong>IoT Solutions</strong></li>
+        <li>🌐 Focused on aligning <strong>strategy</strong> with <strong>execution</strong> to deliver scalable digital products</li>
+        <li>🚀 Builds high-performance, intuitive web interfaces and efficient backend systems</li>
+        <li>🛠️ Working with: <em>MERN Stack, AI & Machine Learning tools, Blockchain frameworks</em></li>
+      </ul>
+    </td>
+    <!-- <td>
+      <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="Coding GIF" width="300" />
+    </td> -->
+  </tr>
+</table>
+
+---
+
+### 🧰 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,ts,react,nextjs,tailwind,python,php,nodejs,mysql,sqlite,fastapi,cpp,git,github,vercel,vscode,figma,ai,discord,render,chainlit,streamlit" />
+</p>
+
+---
+
+### 🤝 Let's Collaborate
+
+- 💼 Open to work  
+- 🧠 Always up for discussing innovative project ideas  
+- 💬 Let’s build something awesome together!
+
+<!-- --- -->
+
+<!-- ### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/anum-k-442b2022b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:anumkamal753@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.fiverr.com/anumkamal753">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@anumriz2017" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/anum_kamal" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p> -->
+
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api?username=Anum-2017&show_icons=true&theme=rose_pine&hide_border=false&rank_icon=github" alt="GitHub Stats" width="47%" height="200" />
+  </span>
+  <span>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Anum-2017&theme=rose_pine&hide_border=false" alt="GitHub Streak Stats" width="47%" height="200" />  
+  </span> 
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anum-2017&layout=compact&langs_count=8&theme=rose_pine&hide_border=false" alt="Top Languages" width="60%" height="200" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anum-2017&theme=react-dark&area=true&hide_border=false" alt="Anum Kamal's GitHub Activity Graph" />
+</p>
+
+---
+
+<h2 align="center">💡 “Make it work, make it right, make it fast” ✨</h2>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=120&section=footer" />
+</p>
