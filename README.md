@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=200&section=header&fontColor=ffffff" />
 </p>
 
-<h1 align="center">✨ Hi, I'm <span style="color:#eccc99;">Adrian Lee</span> 💻</h1>
+<h1 align="center">✨ Hi, I'm <span style="color:#eccc99;">Adrian</span> 💻</h1>
 <h3 align="center"># ### Web & AI Dev Guru 🐍 | AI & Innovation Explorer 🤖</h3>
 
 <div style="display: flex; justify-content: center; margin: 20px 0;">
