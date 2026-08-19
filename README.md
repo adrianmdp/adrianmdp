@@ -3,8 +3,7 @@
 </p>
 
 <h1 align="center">✨ Hi, I'm <span style="color:#eccc99;">Adrian Lee</span> 💻</h1>
-<h3 align="center"># 👨‍💻 COO of SkyLink Digital ⚡
-### Web & AI Dev Guru 🐍 | AI & Innovation Explorer 🤖</h3>
+<h3 align="center"># ### Web & AI Dev Guru 🐍 | AI & Innovation Explorer 🤖</h3>
 
 <div style="display: flex; justify-content: center; margin: 20px 0;">
   <a href="https://github.com/adrianmdp">
